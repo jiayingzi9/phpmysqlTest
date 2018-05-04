@@ -1,0 +1,4 @@
+1、链接数据库、我用的是本地-h127.0.0.1，工具用的是XAMPP
+2、导入数据库source    ..\..\test.sql
+3、打开http://localhost:端口号/phpmysqlTest/
+4、登录账号：哆啦  密码：123456
